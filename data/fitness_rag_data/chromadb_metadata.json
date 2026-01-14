@@ -1,0 +1,65 @@
+{
+  "collections": {
+    "exercises": {
+      "description": "Библиотека всех упражнений",
+      "file": "exercises_library.json",
+      "embeddings_fields": [
+        "name",
+        "description"
+      ]
+    },
+    "warmup": {
+      "description": "Разминочные упражнения",
+      "file": "warmup_routine.json",
+      "embeddings_fields": [
+        "name",
+        "description"
+      ]
+    },
+    "workout_plans": {
+      "description": "Тренировочные планы на 4 недели",
+      "file": "workout_plans_full.json",
+      "embeddings_fields": [
+        "name",
+        "notes"
+      ]
+    }
+  },
+  "categories": [
+    {
+      "id": "male_18_30",
+      "name": "Мужчины 18-30",
+      "searchable": true
+    },
+    {
+      "id": "male_26_45",
+      "name": "Мужчины 26-45",
+      "searchable": true
+    },
+    {
+      "id": "male_46_60",
+      "name": "Мужчины 46-60",
+      "searchable": true
+    },
+    {
+      "id": "female_18_30",
+      "name": "Женщины 18-30",
+      "searchable": true
+    },
+    {
+      "id": "female_26_45",
+      "name": "Женщины 26-45",
+      "searchable": true
+    },
+    {
+      "id": "female_46_60",
+      "name": "Женщины 46-60",
+      "searchable": true
+    }
+  ],
+  "total_documents": {
+    "exercises": 86,
+    "warmup_exercises": 8,
+    "workout_plans": 168
+  }
+}

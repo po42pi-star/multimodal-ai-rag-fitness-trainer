@@ -1,0 +1,39 @@
+{
+  "muscle_groups": [
+    {
+      "name": "chest",
+      "russian": "Грудь",
+      "exercises_count": 14
+    },
+    {
+      "name": "back",
+      "russian": "Спина",
+      "exercises_count": 14
+    },
+    {
+      "name": "legs",
+      "russian": "Ноги",
+      "exercises_count": 19
+    },
+    {
+      "name": "shoulders",
+      "russian": "Плечи",
+      "exercises_count": 11
+    },
+    {
+      "name": "biceps",
+      "russian": "Бицепс",
+      "exercises_count": 7
+    },
+    {
+      "name": "triceps",
+      "russian": "Трицепс",
+      "exercises_count": 7
+    },
+    {
+      "name": "core",
+      "russian": "Кор/Пресс",
+      "exercises_count": 14
+    }
+  ]
+}

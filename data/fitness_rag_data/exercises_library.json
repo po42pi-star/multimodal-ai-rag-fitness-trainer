@@ -1,0 +1,2512 @@
+{
+  "exercises": [
+    {
+      "id": "ex_001",
+      "name": "Отжимания от стены",
+      "description": "Упражнение для развития chest мышц. Отжимания от стены.",
+      "primary_muscles": [
+        "chest"
+      ],
+      "secondary_muscles": [],
+      "difficulty": 1,
+      "equipment": [
+        "none"
+      ],
+      "age_suitability": [
+        "18-30",
+        "26-45",
+        "46-60"
+      ],
+      "gender_suitability": [
+        "male",
+        "female"
+      ],
+      "ascii_schematic": [
+        "┌─────────────────┐",
+        "│        O  O     │ ← Руки",
+        "│        │  │     │",
+        "│        \\  /     │ ← Локти сгибаются",
+        "│         \\/      │",
+        "│        /  \\     │ ← Тело прямое",
+        "│       /    \\    │",
+        "│      /      \\   │ ← Ноги",
+        "└─────/────────\\──┘"
+      ],
+      "tempo": "3-1-3",
+      "breathing": "Выдох на усилии, вдох на расслаблении",
+      "safety": "Держите спину прямой, не блокируйте суставы"
+    },
+    {
+      "id": "ex_002",
+      "name": "Отжимания с колен",
+      "description": "Упражнение для развития chest мышц. Отжимания с колен.",
+      "primary_muscles": [
+        "chest"
+      ],
+      "secondary_muscles": [],
+      "difficulty": 2,
+      "equipment": [
+        "none"
+      ],
+      "age_suitability": [
+        "18-30",
+        "26-45",
+        "46-60"
+      ],
+      "gender_suitability": [
+        "male",
+        "female"
+      ],
+      "ascii_schematic": [
+        "┌─────────────────┐",
+        "│        O  O     │ ← Руки",
+        "│        │  │     │",
+        "│        \\  /     │ ← Локти сгибаются",
+        "│         \\/      │",
+        "│        /  \\     │ ← Тело прямое",
+        "│       /    \\    │",
+        "│      /      \\   │ ← Ноги",
+        "└─────/────────\\──┘"
+      ],
+      "tempo": "3-1-3",
+      "breathing": "Выдох на усилии, вдох на расслаблении",
+      "safety": "Держите спину прямой, не блокируйте суставы"
+    },
+    {
+      "id": "ex_003",
+      "name": "Классические отжимания",
+      "description": "Упражнение для развития chest мышц. Классические отжимания.",
+      "primary_muscles": [
+        "chest"
+      ],
+      "secondary_muscles": [],
+      "difficulty": 3,
+      "equipment": [
+        "none"
+      ],
+      "age_suitability": [
+        "18-30",
+        "26-45",
+        "46-60"
+      ],
+      "gender_suitability": [
+        "male",
+        "female"
+      ],
+      "ascii_schematic": [
+        "Схема упражнения"
+      ],
+      "tempo": "2-1-2",
+      "breathing": "Выдох на усилии, вдох на расслаблении",
+      "safety": "Держите спину прямой, не блокируйте суставы"
+    },
+    {
+      "id": "ex_004",
+      "name": "Классические отжимания (вариация)",
+      "description": "Усложненная/упрощенная версия Классические отжимания",
+      "primary_muscles": [
+        "chest"
+      ],
+      "difficulty": 2,
+      "equipment": [
+        "none"
+      ],
+      "age_suitability": [
+        "18-30",
+        "26-45",
+        "46-60"
+      ],
+      "gender_suitability": [
+        "male",
+        "female"
+      ],
+      "ascii_schematic": [
+        "Вариация базового упражнения"
+      ],
+      "tempo": "3-1-3",
+      "modification": "Измените угол/амплитуду/скорость"
+    },
+    {
+      "id": "ex_005",
+      "name": "Отжимания узким хватом",
+      "description": "Упражнение для развития chest мышц. Отжимания узким хватом.",
+      "primary_muscles": [
+        "chest"
+      ],
+      "secondary_muscles": [],
+      "difficulty": 3,
+      "equipment": [
+        "none"
+      ],
+      "age_suitability": [
+        "18-30",
+        "26-45",
+        "46-60"
+      ],
+      "gender_suitability": [
+        "male",
+        "female"
+      ],
+      "ascii_schematic": [
+        "┌─────────────────┐",
+        "│        O  O     │ ← Руки",
+        "│        │  │     │",
+        "│        \\  /     │ ← Локти сгибаются",
+        "│         \\/      │",
+        "│        /  \\     │ ← Тело прямое",
+        "│       /    \\    │",
+        "│      /      \\   │ ← Ноги",
+        "└─────/────────\\──┘"
+      ],
+      "tempo": "2-1-2",
+      "breathing": "Выдох на усилии, вдох на расслаблении",
+      "safety": "Держите спину прямой, не блокируйте суставы"
+    },
+    {
+      "id": "ex_006",
+      "name": "Алмазные отжимания",
+      "description": "Упражнение для развития chest мышц. Алмазные отжимания.",
+      "primary_muscles": [
+        "chest"
+      ],
+      "secondary_muscles": [],
+      "difficulty": 4,
+      "equipment": [
+        "none"
+      ],
+      "age_suitability": [
+        "18-30",
+        "26-45",
+        "46-60"
+      ],
+      "gender_suitability": [
+        "male",
+        "female"
+      ],
+      "ascii_schematic": [
+        "Схема упражнения"
+      ],
+      "tempo": "2-1-2",
+      "breathing": "Выдох на усилии, вдох на расслаблении",
+      "safety": "Держите спину прямой, не блокируйте суставы"
+    },
+    {
+      "id": "ex_007",
+      "name": "Алмазные отжимания (вариация)",
+      "description": "Усложненная/упрощенная версия Алмазные отжимания",
+      "primary_muscles": [
+        "chest"
+      ],
+      "difficulty": 3,
+      "equipment": [
+        "none"
+      ],
+      "age_suitability": [
+        "18-30",
+        "26-45",
+        "46-60"
+      ],
+      "gender_suitability": [
+        "male",
+        "female"
+      ],
+      "ascii_schematic": [
+        "Вариация базового упражнения"
+      ],
+      "tempo": "3-1-3",
+      "modification": "Измените угол/амплитуду/скорость"
+    },
+    {
+      "id": "ex_008",
+      "name": "Жим гантелей на полу",
+      "description": "Упражнение для развития chest мышц. Жим гантелей на полу.",
+      "primary_muscles": [
+        "chest"
+      ],
+      "secondary_muscles": [],
+      "difficulty": 2,
+      "equipment": [
+        "dumbbells"
+      ],
+      "age_suitability": [
+        "18-30",
+        "26-45",
+        "46-60"
+      ],
+      "gender_suitability": [
+        "male",
+        "female"
+      ],
+      "ascii_schematic": [
+        "Схема упражнения"
+      ],
+      "tempo": "3-1-3",
+      "breathing": "Выдох на усилии, вдох на расслаблении",
+      "safety": "Держите спину прямой, не блокируйте суставы"
+    },
+    {
+      "id": "ex_009",
+      "name": "Разводка гантелей",
+      "description": "Упражнение для развития chest мышц. Разводка гантелей.",
+      "primary_muscles": [
+        "chest"
+      ],
+      "secondary_muscles": [],
+      "difficulty": 2,
+      "equipment": [
+        "dumbbells"
+      ],
+      "age_suitability": [
+        "18-30",
+        "26-45",
+        "46-60"
+      ],
+      "gender_suitability": [
+        "male",
+        "female"
+      ],
+      "ascii_schematic": [
+        "Схема упражнения"
+      ],
+      "tempo": "3-1-3",
+      "breathing": "Выдох на усилии, вдох на расслаблении",
+      "safety": "Держите спину прямой, не блокируйте суставы"
+    },
+    {
+      "id": "ex_010",
+      "name": "Разводка гантелей (вариация)",
+      "description": "Усложненная/упрощенная версия Разводка гантелей",
+      "primary_muscles": [
+        "chest"
+      ],
+      "difficulty": 1,
+      "equipment": [
+        "dumbbells"
+      ],
+      "age_suitability": [
+        "18-30",
+        "26-45",
+        "46-60"
+      ],
+      "gender_suitability": [
+        "male",
+        "female"
+      ],
+      "ascii_schematic": [
+        "Вариация базового упражнения"
+      ],
+      "tempo": "3-1-3",
+      "modification": "Измените угол/амплитуду/скорость"
+    },
+    {
+      "id": "ex_011",
+      "name": "Пуловер с гантелью",
+      "description": "Упражнение для развития chest мышц. Пуловер с гантелью.",
+      "primary_muscles": [
+        "chest"
+      ],
+      "secondary_muscles": [],
+      "difficulty": 3,
+      "equipment": [
+        "dumbbells"
+      ],
+      "age_suitability": [
+        "18-30",
+        "26-45",
+        "46-60"
+      ],
+      "gender_suitability": [
+        "male",
+        "female"
+      ],
+      "ascii_schematic": [
+        "Схема упражнения"
+      ],
+      "tempo": "2-1-2",
+      "breathing": "Выдох на усилии, вдох на расслаблении",
+      "safety": "Держите спину прямой, не блокируйте суставы"
+    },
+    {
+      "id": "ex_012",
+      "name": "Жим с эспандером",
+      "description": "Упражнение для развития chest мышц. Жим с эспандером.",
+      "primary_muscles": [
+        "chest"
+      ],
+      "secondary_muscles": [],
+      "difficulty": 2,
+      "equipment": [
+        "resistance_band"
+      ],
+      "age_suitability": [
+        "18-30",
+        "26-45",
+        "46-60"
+      ],
+      "gender_suitability": [
+        "male",
+        "female"
+      ],
+      "ascii_schematic": [
+        "Схема упражнения"
+      ],
+      "tempo": "3-1-3",
+      "breathing": "Выдох на усилии, вдох на расслаблении",
+      "safety": "Держите спину прямой, не блокируйте суставы"
+    },
+    {
+      "id": "ex_013",
+      "name": "Жим с эспандером (вариация)",
+      "description": "Усложненная/упрощенная версия Жим с эспандером",
+      "primary_muscles": [
+        "chest"
+      ],
+      "difficulty": 1,
+      "equipment": [
+        "resistance_band"
+      ],
+      "age_suitability": [
+        "18-30",
+        "26-45",
+        "46-60"
+      ],
+      "gender_suitability": [
+        "male",
+        "female"
+      ],
+      "ascii_schematic": [
+        "Вариация базового упражнения"
+      ],
+      "tempo": "3-1-3",
+      "modification": "Измените угол/амплитуду/скорость"
+    },
+    {
+      "id": "ex_014",
+      "name": "Разводка с эспандером",
+      "description": "Упражнение для развития chest мышц. Разводка с эспандером.",
+      "primary_muscles": [
+        "chest"
+      ],
+      "secondary_muscles": [],
+      "difficulty": 2,
+      "equipment": [
+        "resistance_band"
+      ],
+      "age_suitability": [
+        "18-30",
+        "26-45",
+        "46-60"
+      ],
+      "gender_suitability": [
+        "male",
+        "female"
+      ],
+      "ascii_schematic": [
+        "Схема упражнения"
+      ],
+      "tempo": "3-1-3",
+      "breathing": "Выдох на усилии, вдох на расслаблении",
+      "safety": "Держите спину прямой, не блокируйте суставы"
+    },
+    {
+      "id": "ex_015",
+      "name": "Тяга эспандера к поясу",
+      "description": "Упражнение для развития back мышц. Тяга эспандера к поясу.",
+      "primary_muscles": [
+        "back"
+      ],
+      "secondary_muscles": [],
+      "difficulty": 1,
+      "equipment": [
+        "resistance_band"
+      ],
+      "age_suitability": [
+        "18-30",
+        "26-45",
+        "46-60"
+      ],
+      "gender_suitability": [
+        "male",
+        "female"
+      ],
+      "ascii_schematic": [
+        "Позиция:    O     ← Голова",
+        "           /|\\    ← Спина прямая",
+        "           / \\    ← Ноги",
+        "         ____     ← Эспандер",
+        "        /    \\",
+        "       o      o   ← Руки",
+        "",
+        "Тяга:       O",
+        "           /|\\",
+        "           / \\",
+        "          /   \\",
+        "         o-----o   ← Руки к животу",
+        "",
+        "Акцент: сведение лопаток"
+      ],
+      "tempo": "3-1-3",
+      "breathing": "Выдох на усилии, вдох на расслаблении",
+      "safety": "Держите спину прямой, не блокируйте суставы"
+    },
+    {
+      "id": "ex_016",
+      "name": "Тяга гантели в наклоне",
+      "description": "Упражнение для развития back мышц. Тяга гантели в наклоне.",
+      "primary_muscles": [
+        "back"
+      ],
+      "secondary_muscles": [],
+      "difficulty": 2,
+      "equipment": [
+        "dumbbells"
+      ],
+      "age_suitability": [
+        "18-30",
+        "26-45",
+        "46-60"
+      ],
+      "gender_suitability": [
+        "male",
+        "female"
+      ],
+      "ascii_schematic": [
+        "Позиция:    O     ← Голова",
+        "           /|\\    ← Спина прямая",
+        "           / \\    ← Ноги",
+        "         ____     ← Эспандер",
+        "        /    \\",
+        "       o      o   ← Руки",
+        "",
+        "Тяга:       O",
+        "           /|\\",
+        "           / \\",
+        "          /   \\",
+        "         o-----o   ← Руки к животу",
+        "",
+        "Акцент: сведение лопаток"
+      ],
+      "tempo": "3-1-3",
+      "breathing": "Выдох на усилии, вдох на расслаблении",
+      "safety": "Держите спину прямой, не блокируйте суставы"
+    },
+    {
+      "id": "ex_017",
+      "name": "Австралийские подтягивания",
+      "description": "Упражнение для развития back мышц. Австралийские подтягивания.",
+      "primary_muscles": [
+        "back"
+      ],
+      "secondary_muscles": [],
+      "difficulty": 3,
+      "equipment": [
+        "bar"
+      ],
+      "age_suitability": [
+        "18-30",
+        "26-45",
+        "46-60"
+      ],
+      "gender_suitability": [
+        "male",
+        "female"
+      ],
+      "ascii_schematic": [
+        "Схема упражнения"
+      ],
+      "tempo": "2-1-2",
+      "breathing": "Выдох на усилии, вдох на расслаблении",
+      "safety": "Держите спину прямой, не блокируйте суставы"
+    },
+    {
+      "id": "ex_018",
+      "name": "Австралийские подтягивания (вариация)",
+      "description": "Усложненная/упрощенная версия Австралийские подтягивания",
+      "primary_muscles": [
+        "back"
+      ],
+      "difficulty": 2,
+      "equipment": [
+        "bar"
+      ],
+      "age_suitability": [
+        "18-30",
+        "26-45",
+        "46-60"
+      ],
+      "gender_suitability": [
+        "male",
+        "female"
+      ],
+      "ascii_schematic": [
+        "Вариация базового упражнения"
+      ],
+      "tempo": "3-1-3",
+      "modification": "Измените угол/амплитуду/скорость"
+    },
+    {
+      "id": "ex_019",
+      "name": "Подтягивания с резинкой",
+      "description": "Упражнение для развития back мышц. Подтягивания с резинкой.",
+      "primary_muscles": [
+        "back"
+      ],
+      "secondary_muscles": [],
+      "difficulty": 2,
+      "equipment": [
+        "resistance_band",
+        "bar"
+      ],
+      "age_suitability": [
+        "18-30",
+        "26-45",
+        "46-60"
+      ],
+      "gender_suitability": [
+        "male",
+        "female"
+      ],
+      "ascii_schematic": [
+        "Схема упражнения"
+      ],
+      "tempo": "3-1-3",
+      "breathing": "Выдох на усилии, вдох на расслаблении",
+      "safety": "Держите спину прямой, не блокируйте суставы"
+    },
+    {
+      "id": "ex_020",
+      "name": "Шраги с гантелями",
+      "description": "Упражнение для развития back мышц. Шраги с гантелями.",
+      "primary_muscles": [
+        "back"
+      ],
+      "secondary_muscles": [],
+      "difficulty": 2,
+      "equipment": [
+        "dumbbells"
+      ],
+      "age_suitability": [
+        "18-30",
+        "26-45",
+        "46-60"
+      ],
+      "gender_suitability": [
+        "male",
+        "female"
+      ],
+      "ascii_schematic": [
+        "Схема упражнения"
+      ],
+      "tempo": "3-1-3",
+      "breathing": "Выдох на усилии, вдох на расслаблении",
+      "safety": "Держите спину прямой, не блокируйте суставы"
+    },
+    {
+      "id": "ex_021",
+      "name": "Шраги с гантелями (вариация)",
+      "description": "Усложненная/упрощенная версия Шраги с гантелями",
+      "primary_muscles": [
+        "back"
+      ],
+      "difficulty": 1,
+      "equipment": [
+        "dumbbells"
+      ],
+      "age_suitability": [
+        "18-30",
+        "26-45",
+        "46-60"
+      ],
+      "gender_suitability": [
+        "male",
+        "female"
+      ],
+      "ascii_schematic": [
+        "Вариация базового упражнения"
+      ],
+      "tempo": "3-1-3",
+      "modification": "Измените угол/амплитуду/скорость"
+    },
+    {
+      "id": "ex_022",
+      "name": "Гиперэкстензия на полу",
+      "description": "Упражнение для развития back мышц. Гиперэкстензия на полу.",
+      "primary_muscles": [
+        "back"
+      ],
+      "secondary_muscles": [],
+      "difficulty": 1,
+      "equipment": [
+        "none"
+      ],
+      "age_suitability": [
+        "18-30",
+        "26-45",
+        "46-60"
+      ],
+      "gender_suitability": [
+        "male",
+        "female"
+      ],
+      "ascii_schematic": [
+        "Схема упражнения"
+      ],
+      "tempo": "3-1-3",
+      "breathing": "Выдох на усилии, вдох на расслаблении",
+      "safety": "Держите спину прямой, не блокируйте суставы"
+    },
+    {
+      "id": "ex_023",
+      "name": "Лодочка",
+      "description": "Упражнение для развития back мышц. Лодочка.",
+      "primary_muscles": [
+        "back"
+      ],
+      "secondary_muscles": [],
+      "difficulty": 1,
+      "equipment": [
+        "none"
+      ],
+      "age_suitability": [
+        "18-30",
+        "26-45",
+        "46-60"
+      ],
+      "gender_suitability": [
+        "male",
+        "female"
+      ],
+      "ascii_schematic": [
+        "Схема упражнения"
+      ],
+      "tempo": "3-1-3",
+      "breathing": "Выдох на усилии, вдох на расслаблении",
+      "safety": "Держите спину прямой, не блокируйте суставы"
+    },
+    {
+      "id": "ex_024",
+      "name": "Лодочка (вариация)",
+      "description": "Усложненная/упрощенная версия Лодочка",
+      "primary_muscles": [
+        "back"
+      ],
+      "difficulty": 1,
+      "equipment": [
+        "none"
+      ],
+      "age_suitability": [
+        "18-30",
+        "26-45",
+        "46-60"
+      ],
+      "gender_suitability": [
+        "male",
+        "female"
+      ],
+      "ascii_schematic": [
+        "Вариация базового упражнения"
+      ],
+      "tempo": "3-1-3",
+      "modification": "Измените угол/амплитуду/скорость"
+    },
+    {
+      "id": "ex_025",
+      "name": "Тяга верхнего блока с эспандером",
+      "description": "Упражнение для развития back мышц. Тяга верхнего блока с эспандером.",
+      "primary_muscles": [
+        "back"
+      ],
+      "secondary_muscles": [],
+      "difficulty": 2,
+      "equipment": [
+        "resistance_band"
+      ],
+      "age_suitability": [
+        "18-30",
+        "26-45",
+        "46-60"
+      ],
+      "gender_suitability": [
+        "male",
+        "female"
+      ],
+      "ascii_schematic": [
+        "Позиция:    O     ← Голова",
+        "           /|\\    ← Спина прямая",
+        "           / \\    ← Ноги",
+        "         ____     ← Эспандер",
+        "        /    \\",
+        "       o      o   ← Руки",
+        "",
+        "Тяга:       O",
+        "           /|\\",
+        "           / \\",
+        "          /   \\",
+        "         o-----o   ← Руки к животу",
+        "",
+        "Акцент: сведение лопаток"
+      ],
+      "tempo": "3-1-3",
+      "breathing": "Выдох на усилии, вдох на расслаблении",
+      "safety": "Держите спину прямой, не блокируйте суставы"
+    },
+    {
+      "id": "ex_026",
+      "name": "Разведение лопаток",
+      "description": "Упражнение для развития back мышц. Разведение лопаток.",
+      "primary_muscles": [
+        "back"
+      ],
+      "secondary_muscles": [],
+      "difficulty": 1,
+      "equipment": [
+        "none"
+      ],
+      "age_suitability": [
+        "18-30",
+        "26-45",
+        "46-60"
+      ],
+      "gender_suitability": [
+        "male",
+        "female"
+      ],
+      "ascii_schematic": [
+        "Схема упражнения"
+      ],
+      "tempo": "3-1-3",
+      "breathing": "Выдох на усилии, вдох на расслаблении",
+      "safety": "Держите спину прямой, не блокируйте суставы"
+    },
+    {
+      "id": "ex_027",
+      "name": "Разведение лопаток (вариация)",
+      "description": "Усложненная/упрощенная версия Разведение лопаток",
+      "primary_muscles": [
+        "back"
+      ],
+      "difficulty": 1,
+      "equipment": [
+        "none"
+      ],
+      "age_suitability": [
+        "18-30",
+        "26-45",
+        "46-60"
+      ],
+      "gender_suitability": [
+        "male",
+        "female"
+      ],
+      "ascii_schematic": [
+        "Вариация базового упражнения"
+      ],
+      "tempo": "3-1-3",
+      "modification": "Измените угол/амплитуду/скорость"
+    },
+    {
+      "id": "ex_028",
+      "name": "Румынская тяга с гантелями",
+      "description": "Упражнение для развития back мышц. Румынская тяга с гантелями.",
+      "primary_muscles": [
+        "back"
+      ],
+      "secondary_muscles": [],
+      "difficulty": 3,
+      "equipment": [
+        "dumbbells"
+      ],
+      "age_suitability": [
+        "18-30",
+        "26-45",
+        "46-60"
+      ],
+      "gender_suitability": [
+        "male",
+        "female"
+      ],
+      "ascii_schematic": [
+        "Схема упражнения"
+      ],
+      "tempo": "2-1-2",
+      "breathing": "Выдох на усилии, вдох на расслаблении",
+      "safety": "Держите спину прямой, не блокируйте суставы"
+    },
+    {
+      "id": "ex_029",
+      "name": "Приседания с опорой на стул",
+      "description": "Упражнение для развития legs мышц. Приседания с опорой на стул.",
+      "primary_muscles": [
+        "legs"
+      ],
+      "secondary_muscles": [],
+      "difficulty": 1,
+      "equipment": [
+        "chair"
+      ],
+      "age_suitability": [
+        "18-30",
+        "26-45",
+        "46-60"
+      ],
+      "gender_suitability": [
+        "male",
+        "female"
+      ],
+      "ascii_schematic": [
+        "Исходное:     O",
+        "             /|\\",
+        "             / \\",
+        "",
+        "Присед:       O",
+        "             /|\\",
+        "           / | \\",
+        "          /  |  \\",
+        "         o   o   o ← Стопы",
+        "",
+        "Ключевые моменты:",
+        "• Колени не выходят за носки",
+        "• Спина прямая",
+        "• Грудь вперед"
+      ],
+      "tempo": "3-1-3",
+      "breathing": "Выдох на усилии, вдох на расслаблении",
+      "safety": "Держите спину прямой, не блокируйте суставы"
+    },
+    {
+      "id": "ex_030",
+      "name": "Приседания с собственным весом",
+      "description": "Упражнение для развития legs мышц. Приседания с собственным весом.",
+      "primary_muscles": [
+        "legs"
+      ],
+      "secondary_muscles": [],
+      "difficulty": 2,
+      "equipment": [
+        "none"
+      ],
+      "age_suitability": [
+        "18-30",
+        "26-45",
+        "46-60"
+      ],
+      "gender_suitability": [
+        "male",
+        "female"
+      ],
+      "ascii_schematic": [
+        "Исходное:     O",
+        "             /|\\",
+        "             / \\",
+        "",
+        "Присед:       O",
+        "             /|\\",
+        "           / | \\",
+        "          /  |  \\",
+        "         o   o   o ← Стопы",
+        "",
+        "Ключевые моменты:",
+        "• Колени не выходят за носки",
+        "• Спина прямая",
+        "• Грудь вперед"
+      ],
+      "tempo": "3-1-3",
+      "breathing": "Выдох на усилии, вдох на расслаблении",
+      "safety": "Держите спину прямой, не блокируйте суставы"
+    },
+    {
+      "id": "ex_031",
+      "name": "Приседания с гантелями",
+      "description": "Упражнение для развития legs мышц. Приседания с гантелями.",
+      "primary_muscles": [
+        "legs"
+      ],
+      "secondary_muscles": [],
+      "difficulty": 3,
+      "equipment": [
+        "dumbbells"
+      ],
+      "age_suitability": [
+        "18-30",
+        "26-45",
+        "46-60"
+      ],
+      "gender_suitability": [
+        "male",
+        "female"
+      ],
+      "ascii_schematic": [
+        "Исходное:     O",
+        "             /|\\",
+        "             / \\",
+        "",
+        "Присед:       O",
+        "             /|\\",
+        "           / | \\",
+        "          /  |  \\",
+        "         o   o   o ← Стопы",
+        "",
+        "Ключевые моменты:",
+        "• Колени не выходят за носки",
+        "• Спина прямая",
+        "• Грудь вперед"
+      ],
+      "tempo": "2-1-2",
+      "breathing": "Выдох на усилии, вдох на расслаблении",
+      "safety": "Держите спину прямой, не блокируйте суставы"
+    },
+    {
+      "id": "ex_032",
+      "name": "Приседания с гантелями (вариация)",
+      "description": "Усложненная/упрощенная версия Приседания с гантелями",
+      "primary_muscles": [
+        "legs"
+      ],
+      "difficulty": 2,
+      "equipment": [
+        "dumbbells"
+      ],
+      "age_suitability": [
+        "18-30",
+        "26-45",
+        "46-60"
+      ],
+      "gender_suitability": [
+        "male",
+        "female"
+      ],
+      "ascii_schematic": [
+        "Вариация базового упражнения"
+      ],
+      "tempo": "3-1-3",
+      "modification": "Измените угол/амплитуду/скорость"
+    },
+    {
+      "id": "ex_033",
+      "name": "Приседания сумо",
+      "description": "Упражнение для развития legs мышц. Приседания сумо.",
+      "primary_muscles": [
+        "legs"
+      ],
+      "secondary_muscles": [],
+      "difficulty": 2,
+      "equipment": [
+        "none"
+      ],
+      "age_suitability": [
+        "18-30",
+        "26-45",
+        "46-60"
+      ],
+      "gender_suitability": [
+        "male",
+        "female"
+      ],
+      "ascii_schematic": [
+        "Исходное:     O",
+        "             /|\\",
+        "             / \\",
+        "",
+        "Присед:       O",
+        "             /|\\",
+        "           / | \\",
+        "          /  |  \\",
+        "         o   o   o ← Стопы",
+        "",
+        "Ключевые моменты:",
+        "• Колени не выходят за носки",
+        "• Спина прямая",
+        "• Грудь вперед"
+      ],
+      "tempo": "3-1-3",
+      "breathing": "Выдох на усилии, вдох на расслаблении",
+      "safety": "Держите спину прямой, не блокируйте суставы"
+    },
+    {
+      "id": "ex_034",
+      "name": "Выпады на месте",
+      "description": "Упражнение для развития legs мышц. Выпады на месте.",
+      "primary_muscles": [
+        "legs"
+      ],
+      "secondary_muscles": [],
+      "difficulty": 2,
+      "equipment": [
+        "none"
+      ],
+      "age_suitability": [
+        "18-30",
+        "26-45",
+        "46-60"
+      ],
+      "gender_suitability": [
+        "male",
+        "female"
+      ],
+      "ascii_schematic": [
+        "Схема упражнения"
+      ],
+      "tempo": "3-1-3",
+      "breathing": "Выдох на усилии, вдох на расслаблении",
+      "safety": "Держите спину прямой, не блокируйте суставы"
+    },
+    {
+      "id": "ex_035",
+      "name": "Выпады на месте (вариация)",
+      "description": "Усложненная/упрощенная версия Выпады на месте",
+      "primary_muscles": [
+        "legs"
+      ],
+      "difficulty": 1,
+      "equipment": [
+        "none"
+      ],
+      "age_suitability": [
+        "18-30",
+        "26-45",
+        "46-60"
+      ],
+      "gender_suitability": [
+        "male",
+        "female"
+      ],
+      "ascii_schematic": [
+        "Вариация базового упражнения"
+      ],
+      "tempo": "3-1-3",
+      "modification": "Измените угол/амплитуду/скорость"
+    },
+    {
+      "id": "ex_036",
+      "name": "Выпады с гантелями",
+      "description": "Упражнение для развития legs мышц. Выпады с гантелями.",
+      "primary_muscles": [
+        "legs"
+      ],
+      "secondary_muscles": [],
+      "difficulty": 3,
+      "equipment": [
+        "dumbbells"
+      ],
+      "age_suitability": [
+        "18-30",
+        "26-45",
+        "46-60"
+      ],
+      "gender_suitability": [
+        "male",
+        "female"
+      ],
+      "ascii_schematic": [
+        "Схема упражнения"
+      ],
+      "tempo": "2-1-2",
+      "breathing": "Выдох на усилии, вдох на расслаблении",
+      "safety": "Держите спину прямой, не блокируйте суставы"
+    },
+    {
+      "id": "ex_037",
+      "name": "Болгарские выпады",
+      "description": "Упражнение для развития legs мышц. Болгарские выпады.",
+      "primary_muscles": [
+        "legs"
+      ],
+      "secondary_muscles": [],
+      "difficulty": 3,
+      "equipment": [
+        "chair"
+      ],
+      "age_suitability": [
+        "18-30",
+        "26-45",
+        "46-60"
+      ],
+      "gender_suitability": [
+        "male",
+        "female"
+      ],
+      "ascii_schematic": [
+        "Схема упражнения"
+      ],
+      "tempo": "2-1-2",
+      "breathing": "Выдох на усилии, вдох на расслаблении",
+      "safety": "Держите спину прямой, не блокируйте суставы"
+    },
+    {
+      "id": "ex_038",
+      "name": "Болгарские выпады (вариация)",
+      "description": "Усложненная/упрощенная версия Болгарские выпады",
+      "primary_muscles": [
+        "legs"
+      ],
+      "difficulty": 2,
+      "equipment": [
+        "chair"
+      ],
+      "age_suitability": [
+        "18-30",
+        "26-45",
+        "46-60"
+      ],
+      "gender_suitability": [
+        "male",
+        "female"
+      ],
+      "ascii_schematic": [
+        "Вариация базового упражнения"
+      ],
+      "tempo": "3-1-3",
+      "modification": "Измените угол/амплитуду/скорость"
+    },
+    {
+      "id": "ex_039",
+      "name": "Ягодичный мостик на полу",
+      "description": "Упражнение для развития legs мышц. Ягодичный мостик на полу.",
+      "primary_muscles": [
+        "legs"
+      ],
+      "secondary_muscles": [],
+      "difficulty": 1,
+      "equipment": [
+        "none"
+      ],
+      "age_suitability": [
+        "18-30",
+        "26-45",
+        "46-60"
+      ],
+      "gender_suitability": [
+        "male",
+        "female"
+      ],
+      "ascii_schematic": [
+        "Схема упражнения"
+      ],
+      "tempo": "3-1-3",
+      "breathing": "Выдох на усилии, вдох на расслаблении",
+      "safety": "Держите спину прямой, не блокируйте суставы"
+    },
+    {
+      "id": "ex_040",
+      "name": "Ягодичный мостик с весом",
+      "description": "Упражнение для развития legs мышц. Ягодичный мостик с весом.",
+      "primary_muscles": [
+        "legs"
+      ],
+      "secondary_muscles": [],
+      "difficulty": 2,
+      "equipment": [
+        "dumbbells"
+      ],
+      "age_suitability": [
+        "18-30",
+        "26-45",
+        "46-60"
+      ],
+      "gender_suitability": [
+        "male",
+        "female"
+      ],
+      "ascii_schematic": [
+        "Схема упражнения"
+      ],
+      "tempo": "3-1-3",
+      "breathing": "Выдох на усилии, вдох на расслаблении",
+      "safety": "Держите спину прямой, не блокируйте суставы"
+    },
+    {
+      "id": "ex_041",
+      "name": "Ягодичный мостик с весом (вариация)",
+      "description": "Усложненная/упрощенная версия Ягодичный мостик с весом",
+      "primary_muscles": [
+        "legs"
+      ],
+      "difficulty": 1,
+      "equipment": [
+        "dumbbells"
+      ],
+      "age_suitability": [
+        "18-30",
+        "26-45",
+        "46-60"
+      ],
+      "gender_suitability": [
+        "male",
+        "female"
+      ],
+      "ascii_schematic": [
+        "Вариация базового упражнения"
+      ],
+      "tempo": "3-1-3",
+      "modification": "Измените угол/амплитуду/скорость"
+    },
+    {
+      "id": "ex_042",
+      "name": "Подъем на носки",
+      "description": "Упражнение для развития legs мышц. Подъем на носки.",
+      "primary_muscles": [
+        "legs"
+      ],
+      "secondary_muscles": [],
+      "difficulty": 1,
+      "equipment": [
+        "none"
+      ],
+      "age_suitability": [
+        "18-30",
+        "26-45",
+        "46-60"
+      ],
+      "gender_suitability": [
+        "male",
+        "female"
+      ],
+      "ascii_schematic": [
+        "Схема упражнения"
+      ],
+      "tempo": "3-1-3",
+      "breathing": "Выдох на усилии, вдох на расслаблении",
+      "safety": "Держите спину прямой, не блокируйте суставы"
+    },
+    {
+      "id": "ex_043",
+      "name": "Зашагивания на стул",
+      "description": "Упражнение для развития legs мышц. Зашагивания на стул.",
+      "primary_muscles": [
+        "legs"
+      ],
+      "secondary_muscles": [],
+      "difficulty": 2,
+      "equipment": [
+        "chair"
+      ],
+      "age_suitability": [
+        "18-30",
+        "26-45",
+        "46-60"
+      ],
+      "gender_suitability": [
+        "male",
+        "female"
+      ],
+      "ascii_schematic": [
+        "Схема упражнения"
+      ],
+      "tempo": "3-1-3",
+      "breathing": "Выдох на усилии, вдох на расслаблении",
+      "safety": "Держите спину прямой, не блокируйте суставы"
+    },
+    {
+      "id": "ex_044",
+      "name": "Зашагивания на стул (вариация)",
+      "description": "Усложненная/упрощенная версия Зашагивания на стул",
+      "primary_muscles": [
+        "legs"
+      ],
+      "difficulty": 1,
+      "equipment": [
+        "chair"
+      ],
+      "age_suitability": [
+        "18-30",
+        "26-45",
+        "46-60"
+      ],
+      "gender_suitability": [
+        "male",
+        "female"
+      ],
+      "ascii_schematic": [
+        "Вариация базового упражнения"
+      ],
+      "tempo": "3-1-3",
+      "modification": "Измените угол/амплитуду/скорость"
+    },
+    {
+      "id": "ex_045",
+      "name": "Боковые выпады",
+      "description": "Упражнение для развития legs мышц. Боковые выпады.",
+      "primary_muscles": [
+        "legs"
+      ],
+      "secondary_muscles": [],
+      "difficulty": 2,
+      "equipment": [
+        "none"
+      ],
+      "age_suitability": [
+        "18-30",
+        "26-45",
+        "46-60"
+      ],
+      "gender_suitability": [
+        "male",
+        "female"
+      ],
+      "ascii_schematic": [
+        "Схема упражнения"
+      ],
+      "tempo": "3-1-3",
+      "breathing": "Выдох на усилии, вдох на расслаблении",
+      "safety": "Держите спину прямой, не блокируйте суставы"
+    },
+    {
+      "id": "ex_046",
+      "name": "Мертвая тяга с гантелями",
+      "description": "Упражнение для развития legs мышц. Мертвая тяга с гантелями.",
+      "primary_muscles": [
+        "legs"
+      ],
+      "secondary_muscles": [],
+      "difficulty": 3,
+      "equipment": [
+        "dumbbells"
+      ],
+      "age_suitability": [
+        "18-30",
+        "26-45",
+        "46-60"
+      ],
+      "gender_suitability": [
+        "male",
+        "female"
+      ],
+      "ascii_schematic": [
+        "Схема упражнения"
+      ],
+      "tempo": "2-1-2",
+      "breathing": "Выдох на усилии, вдох на расслаблении",
+      "safety": "Держите спину прямой, не блокируйте суставы"
+    },
+    {
+      "id": "ex_047",
+      "name": "Мертвая тяга с гантелями (вариация)",
+      "description": "Усложненная/упрощенная версия Мертвая тяга с гантелями",
+      "primary_muscles": [
+        "legs"
+      ],
+      "difficulty": 2,
+      "equipment": [
+        "dumbbells"
+      ],
+      "age_suitability": [
+        "18-30",
+        "26-45",
+        "46-60"
+      ],
+      "gender_suitability": [
+        "male",
+        "female"
+      ],
+      "ascii_schematic": [
+        "Вариация базового упражнения"
+      ],
+      "tempo": "3-1-3",
+      "modification": "Измените угол/амплитуду/скорость"
+    },
+    {
+      "id": "ex_048",
+      "name": "Жим гантелей сидя",
+      "description": "Упражнение для развития shoulders мышц. Жим гантелей сидя.",
+      "primary_muscles": [
+        "shoulders"
+      ],
+      "secondary_muscles": [],
+      "difficulty": 2,
+      "equipment": [
+        "dumbbells",
+        "chair"
+      ],
+      "age_suitability": [
+        "18-30",
+        "26-45",
+        "46-60"
+      ],
+      "gender_suitability": [
+        "male",
+        "female"
+      ],
+      "ascii_schematic": [
+        "Схема упражнения"
+      ],
+      "tempo": "3-1-3",
+      "breathing": "Выдох на усилии, вдох на расслаблении",
+      "safety": "Держите спину прямой, не блокируйте суставы"
+    },
+    {
+      "id": "ex_049",
+      "name": "Махи гантелями в стороны",
+      "description": "Упражнение для развития shoulders мышц. Махи гантелями в стороны.",
+      "primary_muscles": [
+        "shoulders"
+      ],
+      "secondary_muscles": [],
+      "difficulty": 2,
+      "equipment": [
+        "dumbbells"
+      ],
+      "age_suitability": [
+        "18-30",
+        "26-45",
+        "46-60"
+      ],
+      "gender_suitability": [
+        "male",
+        "female"
+      ],
+      "ascii_schematic": [
+        "Схема упражнения"
+      ],
+      "tempo": "3-1-3",
+      "breathing": "Выдох на усилии, вдох на расслаблении",
+      "safety": "Держите спину прямой, не блокируйте суставы"
+    },
+    {
+      "id": "ex_050",
+      "name": "Махи гантелями вперед",
+      "description": "Упражнение для развития shoulders мышц. Махи гантелями вперед.",
+      "primary_muscles": [
+        "shoulders"
+      ],
+      "secondary_muscles": [],
+      "difficulty": 2,
+      "equipment": [
+        "dumbbells"
+      ],
+      "age_suitability": [
+        "18-30",
+        "26-45",
+        "46-60"
+      ],
+      "gender_suitability": [
+        "male",
+        "female"
+      ],
+      "ascii_schematic": [
+        "Схема упражнения"
+      ],
+      "tempo": "3-1-3",
+      "breathing": "Выдох на усилии, вдох на расслаблении",
+      "safety": "Держите спину прямой, не блокируйте суставы"
+    },
+    {
+      "id": "ex_051",
+      "name": "Махи гантелями вперед (вариация)",
+      "description": "Усложненная/упрощенная версия Махи гантелями вперед",
+      "primary_muscles": [
+        "shoulders"
+      ],
+      "difficulty": 1,
+      "equipment": [
+        "dumbbells"
+      ],
+      "age_suitability": [
+        "18-30",
+        "26-45",
+        "46-60"
+      ],
+      "gender_suitability": [
+        "male",
+        "female"
+      ],
+      "ascii_schematic": [
+        "Вариация базового упражнения"
+      ],
+      "tempo": "3-1-3",
+      "modification": "Измените угол/амплитуду/скорость"
+    },
+    {
+      "id": "ex_052",
+      "name": "Махи в наклоне",
+      "description": "Упражнение для развития shoulders мышц. Махи в наклоне.",
+      "primary_muscles": [
+        "shoulders"
+      ],
+      "secondary_muscles": [],
+      "difficulty": 3,
+      "equipment": [
+        "dumbbells"
+      ],
+      "age_suitability": [
+        "18-30",
+        "26-45",
+        "46-60"
+      ],
+      "gender_suitability": [
+        "male",
+        "female"
+      ],
+      "ascii_schematic": [
+        "Схема упражнения"
+      ],
+      "tempo": "2-1-2",
+      "breathing": "Выдох на усилии, вдох на расслаблении",
+      "safety": "Держите спину прямой, не блокируйте суставы"
+    },
+    {
+      "id": "ex_053",
+      "name": "Протяжка с гантелями",
+      "description": "Упражнение для развития shoulders мышц. Протяжка с гантелями.",
+      "primary_muscles": [
+        "shoulders"
+      ],
+      "secondary_muscles": [],
+      "difficulty": 2,
+      "equipment": [
+        "dumbbells"
+      ],
+      "age_suitability": [
+        "18-30",
+        "26-45",
+        "46-60"
+      ],
+      "gender_suitability": [
+        "male",
+        "female"
+      ],
+      "ascii_schematic": [
+        "Схема упражнения"
+      ],
+      "tempo": "3-1-3",
+      "breathing": "Выдох на усилии, вдох на расслаблении",
+      "safety": "Держите спину прямой, не блокируйте суставы"
+    },
+    {
+      "id": "ex_054",
+      "name": "Протяжка с гантелями (вариация)",
+      "description": "Усложненная/упрощенная версия Протяжка с гантелями",
+      "primary_muscles": [
+        "shoulders"
+      ],
+      "difficulty": 1,
+      "equipment": [
+        "dumbbells"
+      ],
+      "age_suitability": [
+        "18-30",
+        "26-45",
+        "46-60"
+      ],
+      "gender_suitability": [
+        "male",
+        "female"
+      ],
+      "ascii_schematic": [
+        "Вариация базового упражнения"
+      ],
+      "tempo": "3-1-3",
+      "modification": "Измените угол/амплитуду/скорость"
+    },
+    {
+      "id": "ex_055",
+      "name": "Жим с эспандером над головой",
+      "description": "Упражнение для развития shoulders мышц. Жим с эспандером над головой.",
+      "primary_muscles": [
+        "shoulders"
+      ],
+      "secondary_muscles": [],
+      "difficulty": 2,
+      "equipment": [
+        "resistance_band"
+      ],
+      "age_suitability": [
+        "18-30",
+        "26-45",
+        "46-60"
+      ],
+      "gender_suitability": [
+        "male",
+        "female"
+      ],
+      "ascii_schematic": [
+        "Схема упражнения"
+      ],
+      "tempo": "3-1-3",
+      "breathing": "Выдох на усилии, вдох на расслаблении",
+      "safety": "Держите спину прямой, не блокируйте суставы"
+    },
+    {
+      "id": "ex_056",
+      "name": "Махи с эспандером",
+      "description": "Упражнение для развития shoulders мышц. Махи с эспандером.",
+      "primary_muscles": [
+        "shoulders"
+      ],
+      "secondary_muscles": [],
+      "difficulty": 2,
+      "equipment": [
+        "resistance_band"
+      ],
+      "age_suitability": [
+        "18-30",
+        "26-45",
+        "46-60"
+      ],
+      "gender_suitability": [
+        "male",
+        "female"
+      ],
+      "ascii_schematic": [
+        "Схема упражнения"
+      ],
+      "tempo": "3-1-3",
+      "breathing": "Выдох на усилии, вдох на расслаблении",
+      "safety": "Держите спину прямой, не блокируйте суставы"
+    },
+    {
+      "id": "ex_057",
+      "name": "Махи с эспандером (вариация)",
+      "description": "Усложненная/упрощенная версия Махи с эспандером",
+      "primary_muscles": [
+        "shoulders"
+      ],
+      "difficulty": 1,
+      "equipment": [
+        "resistance_band"
+      ],
+      "age_suitability": [
+        "18-30",
+        "26-45",
+        "46-60"
+      ],
+      "gender_suitability": [
+        "male",
+        "female"
+      ],
+      "ascii_schematic": [
+        "Вариация базового упражнения"
+      ],
+      "tempo": "3-1-3",
+      "modification": "Измените угол/амплитуду/скорость"
+    },
+    {
+      "id": "ex_058",
+      "name": "Вращения плечами с эспандером",
+      "description": "Упражнение для развития shoulders мышц. Вращения плечами с эспандером.",
+      "primary_muscles": [
+        "shoulders"
+      ],
+      "secondary_muscles": [],
+      "difficulty": 1,
+      "equipment": [
+        "resistance_band"
+      ],
+      "age_suitability": [
+        "18-30",
+        "26-45",
+        "46-60"
+      ],
+      "gender_suitability": [
+        "male",
+        "female"
+      ],
+      "ascii_schematic": [
+        "Схема упражнения"
+      ],
+      "tempo": "3-1-3",
+      "breathing": "Выдох на усилии, вдох на расслаблении",
+      "safety": "Держите спину прямой, не блокируйте суставы"
+    },
+    {
+      "id": "ex_059",
+      "name": "Подъем гантелей на бицепс",
+      "description": "Упражнение для развития biceps мышц. Подъем гантелей на бицепс.",
+      "primary_muscles": [
+        "biceps"
+      ],
+      "secondary_muscles": [],
+      "difficulty": 2,
+      "equipment": [
+        "dumbbells"
+      ],
+      "age_suitability": [
+        "18-30",
+        "26-45",
+        "46-60"
+      ],
+      "gender_suitability": [
+        "male",
+        "female"
+      ],
+      "ascii_schematic": [
+        "Схема упражнения"
+      ],
+      "tempo": "3-1-3",
+      "breathing": "Выдох на усилии, вдох на расслаблении",
+      "safety": "Держите спину прямой, не блокируйте суставы"
+    },
+    {
+      "id": "ex_060",
+      "name": "Молотковые сгибания",
+      "description": "Упражнение для развития biceps мышц. Молотковые сгибания.",
+      "primary_muscles": [
+        "biceps"
+      ],
+      "secondary_muscles": [],
+      "difficulty": 2,
+      "equipment": [
+        "dumbbells"
+      ],
+      "age_suitability": [
+        "18-30",
+        "26-45",
+        "46-60"
+      ],
+      "gender_suitability": [
+        "male",
+        "female"
+      ],
+      "ascii_schematic": [
+        "Схема упражнения"
+      ],
+      "tempo": "3-1-3",
+      "breathing": "Выдох на усилии, вдох на расслаблении",
+      "safety": "Держите спину прямой, не блокируйте суставы"
+    },
+    {
+      "id": "ex_061",
+      "name": "Концентрированные сгибания",
+      "description": "Упражнение для развития biceps мышц. Концентрированные сгибания.",
+      "primary_muscles": [
+        "biceps"
+      ],
+      "secondary_muscles": [],
+      "difficulty": 2,
+      "equipment": [
+        "dumbbells",
+        "chair"
+      ],
+      "age_suitability": [
+        "18-30",
+        "26-45",
+        "46-60"
+      ],
+      "gender_suitability": [
+        "male",
+        "female"
+      ],
+      "ascii_schematic": [
+        "Схема упражнения"
+      ],
+      "tempo": "3-1-3",
+      "breathing": "Выдох на усилии, вдох на расслаблении",
+      "safety": "Держите спину прямой, не блокируйте суставы"
+    },
+    {
+      "id": "ex_062",
+      "name": "Концентрированные сгибания (вариация)",
+      "description": "Усложненная/упрощенная версия Концентрированные сгибания",
+      "primary_muscles": [
+        "biceps"
+      ],
+      "difficulty": 1,
+      "equipment": [
+        "dumbbells",
+        "chair"
+      ],
+      "age_suitability": [
+        "18-30",
+        "26-45",
+        "46-60"
+      ],
+      "gender_suitability": [
+        "male",
+        "female"
+      ],
+      "ascii_schematic": [
+        "Вариация базового упражнения"
+      ],
+      "tempo": "3-1-3",
+      "modification": "Измените угол/амплитуду/скорость"
+    },
+    {
+      "id": "ex_063",
+      "name": "Сгибания с эспандером",
+      "description": "Упражнение для развития biceps мышц. Сгибания с эспандером.",
+      "primary_muscles": [
+        "biceps"
+      ],
+      "secondary_muscles": [],
+      "difficulty": 2,
+      "equipment": [
+        "resistance_band"
+      ],
+      "age_suitability": [
+        "18-30",
+        "26-45",
+        "46-60"
+      ],
+      "gender_suitability": [
+        "male",
+        "female"
+      ],
+      "ascii_schematic": [
+        "Схема упражнения"
+      ],
+      "tempo": "3-1-3",
+      "breathing": "Выдох на усилии, вдох на расслаблении",
+      "safety": "Держите спину прямой, не блокируйте суставы"
+    },
+    {
+      "id": "ex_064",
+      "name": "Сгибания Зоттмана",
+      "description": "Упражнение для развития biceps мышц. Сгибания Зоттмана.",
+      "primary_muscles": [
+        "biceps"
+      ],
+      "secondary_muscles": [],
+      "difficulty": 3,
+      "equipment": [
+        "dumbbells"
+      ],
+      "age_suitability": [
+        "18-30",
+        "26-45",
+        "46-60"
+      ],
+      "gender_suitability": [
+        "male",
+        "female"
+      ],
+      "ascii_schematic": [
+        "Схема упражнения"
+      ],
+      "tempo": "2-1-2",
+      "breathing": "Выдох на усилии, вдох на расслаблении",
+      "safety": "Держите спину прямой, не блокируйте суставы"
+    },
+    {
+      "id": "ex_065",
+      "name": "Сгибания Зоттмана (вариация)",
+      "description": "Усложненная/упрощенная версия Сгибания Зоттмана",
+      "primary_muscles": [
+        "biceps"
+      ],
+      "difficulty": 2,
+      "equipment": [
+        "dumbbells"
+      ],
+      "age_suitability": [
+        "18-30",
+        "26-45",
+        "46-60"
+      ],
+      "gender_suitability": [
+        "male",
+        "female"
+      ],
+      "ascii_schematic": [
+        "Вариация базового упражнения"
+      ],
+      "tempo": "3-1-3",
+      "modification": "Измените угол/амплитуду/скорость"
+    },
+    {
+      "id": "ex_066",
+      "name": "Разгибание рук с гантелью",
+      "description": "Упражнение для развития triceps мышц. Разгибание рук с гантелью.",
+      "primary_muscles": [
+        "triceps"
+      ],
+      "secondary_muscles": [],
+      "difficulty": 2,
+      "equipment": [
+        "dumbbells"
+      ],
+      "age_suitability": [
+        "18-30",
+        "26-45",
+        "46-60"
+      ],
+      "gender_suitability": [
+        "male",
+        "female"
+      ],
+      "ascii_schematic": [
+        "Схема упражнения"
+      ],
+      "tempo": "3-1-3",
+      "breathing": "Выдох на усилии, вдох на расслаблении",
+      "safety": "Держите спину прямой, не блокируйте суставы"
+    },
+    {
+      "id": "ex_067",
+      "name": "Отжимания от скамьи",
+      "description": "Упражнение для развития triceps мышц. Отжимания от скамьи.",
+      "primary_muscles": [
+        "triceps"
+      ],
+      "secondary_muscles": [],
+      "difficulty": 3,
+      "equipment": [
+        "chair"
+      ],
+      "age_suitability": [
+        "18-30",
+        "26-45",
+        "46-60"
+      ],
+      "gender_suitability": [
+        "male",
+        "female"
+      ],
+      "ascii_schematic": [
+        "┌─────────────────┐",
+        "│        O  O     │ ← Руки",
+        "│        │  │     │",
+        "│        \\  /     │ ← Локти сгибаются",
+        "│         \\/      │",
+        "│        /  \\     │ ← Тело прямое",
+        "│       /    \\    │",
+        "│      /      \\   │ ← Ноги",
+        "└─────/────────\\──┘"
+      ],
+      "tempo": "2-1-2",
+      "breathing": "Выдох на усилии, вдох на расслаблении",
+      "safety": "Держите спину прямой, не блокируйте суставы"
+    },
+    {
+      "id": "ex_068",
+      "name": "Французский жим с гантелью",
+      "description": "Упражнение для развития triceps мышц. Французский жим с гантелью.",
+      "primary_muscles": [
+        "triceps"
+      ],
+      "secondary_muscles": [],
+      "difficulty": 3,
+      "equipment": [
+        "dumbbells"
+      ],
+      "age_suitability": [
+        "18-30",
+        "26-45",
+        "46-60"
+      ],
+      "gender_suitability": [
+        "male",
+        "female"
+      ],
+      "ascii_schematic": [
+        "Схема упражнения"
+      ],
+      "tempo": "2-1-2",
+      "breathing": "Выдох на усилии, вдох на расслаблении",
+      "safety": "Держите спину прямой, не блокируйте суставы"
+    },
+    {
+      "id": "ex_069",
+      "name": "Французский жим с гантелью (вариация)",
+      "description": "Усложненная/упрощенная версия Французский жим с гантелью",
+      "primary_muscles": [
+        "triceps"
+      ],
+      "difficulty": 2,
+      "equipment": [
+        "dumbbells"
+      ],
+      "age_suitability": [
+        "18-30",
+        "26-45",
+        "46-60"
+      ],
+      "gender_suitability": [
+        "male",
+        "female"
+      ],
+      "ascii_schematic": [
+        "Вариация базового упражнения"
+      ],
+      "tempo": "3-1-3",
+      "modification": "Измените угол/амплитуду/скорость"
+    },
+    {
+      "id": "ex_070",
+      "name": "Разгибание с эспандером",
+      "description": "Упражнение для развития triceps мышц. Разгибание с эспандером.",
+      "primary_muscles": [
+        "triceps"
+      ],
+      "secondary_muscles": [],
+      "difficulty": 2,
+      "equipment": [
+        "resistance_band"
+      ],
+      "age_suitability": [
+        "18-30",
+        "26-45",
+        "46-60"
+      ],
+      "gender_suitability": [
+        "male",
+        "female"
+      ],
+      "ascii_schematic": [
+        "Схема упражнения"
+      ],
+      "tempo": "3-1-3",
+      "breathing": "Выдох на усилии, вдох на расслаблении",
+      "safety": "Держите спину прямой, не блокируйте суставы"
+    },
+    {
+      "id": "ex_071",
+      "name": "Кик-бэки с гантелями",
+      "description": "Упражнение для развития triceps мышц. Кик-бэки с гантелями.",
+      "primary_muscles": [
+        "triceps"
+      ],
+      "secondary_muscles": [],
+      "difficulty": 3,
+      "equipment": [
+        "dumbbells"
+      ],
+      "age_suitability": [
+        "18-30",
+        "26-45",
+        "46-60"
+      ],
+      "gender_suitability": [
+        "male",
+        "female"
+      ],
+      "ascii_schematic": [
+        "Схема упражнения"
+      ],
+      "tempo": "2-1-2",
+      "breathing": "Выдох на усилии, вдох на расслаблении",
+      "safety": "Держите спину прямой, не блокируйте суставы"
+    },
+    {
+      "id": "ex_072",
+      "name": "Кик-бэки с гантелями (вариация)",
+      "description": "Усложненная/упрощенная версия Кик-бэки с гантелями",
+      "primary_muscles": [
+        "triceps"
+      ],
+      "difficulty": 2,
+      "equipment": [
+        "dumbbells"
+      ],
+      "age_suitability": [
+        "18-30",
+        "26-45",
+        "46-60"
+      ],
+      "gender_suitability": [
+        "male",
+        "female"
+      ],
+      "ascii_schematic": [
+        "Вариация базового упражнения"
+      ],
+      "tempo": "3-1-3",
+      "modification": "Измените угол/амплитуду/скорость"
+    },
+    {
+      "id": "ex_073",
+      "name": "Планка на предплечьях",
+      "description": "Упражнение для развития core мышц. Планка на предплечьях.",
+      "primary_muscles": [
+        "core"
+      ],
+      "secondary_muscles": [],
+      "difficulty": 2,
+      "equipment": [
+        "none"
+      ],
+      "age_suitability": [
+        "18-30",
+        "26-45",
+        "46-60"
+      ],
+      "gender_suitability": [
+        "male",
+        "female"
+      ],
+      "ascii_schematic": [
+        "Вид сбоку:",
+        "  ___________________",
+        " |                   |",
+        " O===================O ← Предплечья",
+        "   |               |",
+        "   |               |",
+        "   O               O ← Носки",
+        "",
+        "Тело должно быть как прямая линия",
+        "Не допускайте:",
+        "Прогиб в пояснице:  ︶",
+        "Поднятый таз:       ︵"
+      ],
+      "tempo": "3-1-3",
+      "breathing": "Выдох на усилии, вдох на расслаблении",
+      "safety": "Держите спину прямой, не блокируйте суставы"
+    },
+    {
+      "id": "ex_074",
+      "name": "Планка на прямых руках",
+      "description": "Упражнение для развития core мышц. Планка на прямых руках.",
+      "primary_muscles": [
+        "core"
+      ],
+      "secondary_muscles": [],
+      "difficulty": 2,
+      "equipment": [
+        "none"
+      ],
+      "age_suitability": [
+        "18-30",
+        "26-45",
+        "46-60"
+      ],
+      "gender_suitability": [
+        "male",
+        "female"
+      ],
+      "ascii_schematic": [
+        "Вид сбоку:",
+        "  ___________________",
+        " |                   |",
+        " O===================O ← Предплечья",
+        "   |               |",
+        "   |               |",
+        "   O               O ← Носки",
+        "",
+        "Тело должно быть как прямая линия",
+        "Не допускайте:",
+        "Прогиб в пояснице:  ︶",
+        "Поднятый таз:       ︵"
+      ],
+      "tempo": "3-1-3",
+      "breathing": "Выдох на усилии, вдох на расслаблении",
+      "safety": "Держите спину прямой, не блокируйте суставы"
+    },
+    {
+      "id": "ex_075",
+      "name": "Боковая планка",
+      "description": "Упражнение для развития core мышц. Боковая планка.",
+      "primary_muscles": [
+        "core"
+      ],
+      "secondary_muscles": [],
+      "difficulty": 3,
+      "equipment": [
+        "none"
+      ],
+      "age_suitability": [
+        "18-30",
+        "26-45",
+        "46-60"
+      ],
+      "gender_suitability": [
+        "male",
+        "female"
+      ],
+      "ascii_schematic": [
+        "Схема упражнения"
+      ],
+      "tempo": "2-1-2",
+      "breathing": "Выдох на усилии, вдох на расслаблении",
+      "safety": "Держите спину прямой, не блокируйте суставы"
+    },
+    {
+      "id": "ex_076",
+      "name": "Боковая планка (вариация)",
+      "description": "Усложненная/упрощенная версия Боковая планка",
+      "primary_muscles": [
+        "core"
+      ],
+      "difficulty": 2,
+      "equipment": [
+        "none"
+      ],
+      "age_suitability": [
+        "18-30",
+        "26-45",
+        "46-60"
+      ],
+      "gender_suitability": [
+        "male",
+        "female"
+      ],
+      "ascii_schematic": [
+        "Вариация базового упражнения"
+      ],
+      "tempo": "3-1-3",
+      "modification": "Измените угол/амплитуду/скорость"
+    },
+    {
+      "id": "ex_077",
+      "name": "Скручивания",
+      "description": "Упражнение для развития core мышц. Скручивания.",
+      "primary_muscles": [
+        "core"
+      ],
+      "secondary_muscles": [],
+      "difficulty": 1,
+      "equipment": [
+        "none"
+      ],
+      "age_suitability": [
+        "18-30",
+        "26-45",
+        "46-60"
+      ],
+      "gender_suitability": [
+        "male",
+        "female"
+      ],
+      "ascii_schematic": [
+        "Схема упражнения"
+      ],
+      "tempo": "3-1-3",
+      "breathing": "Выдох на усилии, вдох на расслаблении",
+      "safety": "Держите спину прямой, не блокируйте суставы"
+    },
+    {
+      "id": "ex_078",
+      "name": "Обратные скручивания",
+      "description": "Упражнение для развития core мышц. Обратные скручивания.",
+      "primary_muscles": [
+        "core"
+      ],
+      "secondary_muscles": [],
+      "difficulty": 2,
+      "equipment": [
+        "none"
+      ],
+      "age_suitability": [
+        "18-30",
+        "26-45",
+        "46-60"
+      ],
+      "gender_suitability": [
+        "male",
+        "female"
+      ],
+      "ascii_schematic": [
+        "Схема упражнения"
+      ],
+      "tempo": "3-1-3",
+      "breathing": "Выдох на усилии, вдох на расслаблении",
+      "safety": "Держите спину прямой, не блокируйте суставы"
+    },
+    {
+      "id": "ex_079",
+      "name": "Обратные скручивания (вариация)",
+      "description": "Усложненная/упрощенная версия Обратные скручивания",
+      "primary_muscles": [
+        "core"
+      ],
+      "difficulty": 1,
+      "equipment": [
+        "none"
+      ],
+      "age_suitability": [
+        "18-30",
+        "26-45",
+        "46-60"
+      ],
+      "gender_suitability": [
+        "male",
+        "female"
+      ],
+      "ascii_schematic": [
+        "Вариация базового упражнения"
+      ],
+      "tempo": "3-1-3",
+      "modification": "Измените угол/амплитуду/скорость"
+    },
+    {
+      "id": "ex_080",
+      "name": "Велосипед",
+      "description": "Упражнение для развития core мышц. Велосипед.",
+      "primary_muscles": [
+        "core"
+      ],
+      "secondary_muscles": [],
+      "difficulty": 2,
+      "equipment": [
+        "none"
+      ],
+      "age_suitability": [
+        "18-30",
+        "26-45",
+        "46-60"
+      ],
+      "gender_suitability": [
+        "male",
+        "female"
+      ],
+      "ascii_schematic": [
+        "Схема упражнения"
+      ],
+      "tempo": "3-1-3",
+      "breathing": "Выдох на усилии, вдох на расслаблении",
+      "safety": "Держите спину прямой, не блокируйте суставы"
+    },
+    {
+      "id": "ex_081",
+      "name": "Русские скручивания",
+      "description": "Упражнение для развития core мышц. Русские скручивания.",
+      "primary_muscles": [
+        "core"
+      ],
+      "secondary_muscles": [],
+      "difficulty": 3,
+      "equipment": [
+        "none"
+      ],
+      "age_suitability": [
+        "18-30",
+        "26-45",
+        "46-60"
+      ],
+      "gender_suitability": [
+        "male",
+        "female"
+      ],
+      "ascii_schematic": [
+        "Схема упражнения"
+      ],
+      "tempo": "2-1-2",
+      "breathing": "Выдох на усилии, вдох на расслаблении",
+      "safety": "Держите спину прямой, не блокируйте суставы"
+    },
+    {
+      "id": "ex_082",
+      "name": "Русские скручивания (вариация)",
+      "description": "Усложненная/упрощенная версия Русские скручивания",
+      "primary_muscles": [
+        "core"
+      ],
+      "difficulty": 2,
+      "equipment": [
+        "none"
+      ],
+      "age_suitability": [
+        "18-30",
+        "26-45",
+        "46-60"
+      ],
+      "gender_suitability": [
+        "male",
+        "female"
+      ],
+      "ascii_schematic": [
+        "Вариация базового упражнения"
+      ],
+      "tempo": "3-1-3",
+      "modification": "Измените угол/амплитуду/скорость"
+    },
+    {
+      "id": "ex_083",
+      "name": "Подъем ног лежа",
+      "description": "Упражнение для развития core мышц. Подъем ног лежа.",
+      "primary_muscles": [
+        "core"
+      ],
+      "secondary_muscles": [],
+      "difficulty": 2,
+      "equipment": [
+        "none"
+      ],
+      "age_suitability": [
+        "18-30",
+        "26-45",
+        "46-60"
+      ],
+      "gender_suitability": [
+        "male",
+        "female"
+      ],
+      "ascii_schematic": [
+        "Схема упражнения"
+      ],
+      "tempo": "3-1-3",
+      "breathing": "Выдох на усилии, вдох на расслаблении",
+      "safety": "Держите спину прямой, не блокируйте суставы"
+    },
+    {
+      "id": "ex_084",
+      "name": "Горная альпинистка",
+      "description": "Упражнение для развития core мышц. Горная альпинистка.",
+      "primary_muscles": [
+        "core"
+      ],
+      "secondary_muscles": [],
+      "difficulty": 3,
+      "equipment": [
+        "none"
+      ],
+      "age_suitability": [
+        "18-30",
+        "26-45",
+        "46-60"
+      ],
+      "gender_suitability": [
+        "male",
+        "female"
+      ],
+      "ascii_schematic": [
+        "Схема упражнения"
+      ],
+      "tempo": "2-1-2",
+      "breathing": "Выдох на усилии, вдох на расслаблении",
+      "safety": "Держите спину прямой, не блокируйте суставы"
+    },
+    {
+      "id": "ex_085",
+      "name": "Горная альпинистка (вариация)",
+      "description": "Усложненная/упрощенная версия Горная альпинистка",
+      "primary_muscles": [
+        "core"
+      ],
+      "difficulty": 2,
+      "equipment": [
+        "none"
+      ],
+      "age_suitability": [
+        "18-30",
+        "26-45",
+        "46-60"
+      ],
+      "gender_suitability": [
+        "male",
+        "female"
+      ],
+      "ascii_schematic": [
+        "Вариация базового упражнения"
+      ],
+      "tempo": "3-1-3",
+      "modification": "Измените угол/амплитуду/скорость"
+    },
+    {
+      "id": "ex_086",
+      "name": "Вакуум живота",
+      "description": "Упражнение для развития core мышц. Вакуум живота.",
+      "primary_muscles": [
+        "core"
+      ],
+      "secondary_muscles": [],
+      "difficulty": 1,
+      "equipment": [
+        "none"
+      ],
+      "age_suitability": [
+        "18-30",
+        "26-45",
+        "46-60"
+      ],
+      "gender_suitability": [
+        "male",
+        "female"
+      ],
+      "ascii_schematic": [
+        "Схема упражнения"
+      ],
+      "tempo": "3-1-3",
+      "breathing": "Выдох на усилии, вдох на расслаблении",
+      "safety": "Держите спину прямой, не блокируйте суставы"
+    }
+  ],
+  "count": 86
+}

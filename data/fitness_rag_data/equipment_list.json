@@ -1,0 +1,29 @@
+{
+  "equipment": [
+    {
+      "id": "none",
+      "name": "Только вес тела",
+      "exercises_count": 120
+    },
+    {
+      "id": "dumbbells",
+      "name": "Гантели",
+      "exercises_count": 80
+    },
+    {
+      "id": "resistance_band",
+      "name": "Эспандер",
+      "exercises_count": 60
+    },
+    {
+      "id": "chair",
+      "name": "Стул",
+      "exercises_count": 25
+    },
+    {
+      "id": "bar",
+      "name": "Турник/Брус",
+      "exercises_count": 15
+    }
+  ]
+}
