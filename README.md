@@ -275,7 +275,6 @@ MIT License — подробности в файле [LICENSE](LICENSE)
 ## 📞 Контакты
 
 **Автор**: Ivan P
-
 **Telegram**: [@nonoyessure](https://t.me/nonoyessure)
 
 ---
