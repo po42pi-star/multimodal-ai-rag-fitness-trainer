@@ -260,7 +260,7 @@ multimodal-ai-rag-fitness-trainer/
 
 ### Главное меню и `/start`
 
-![Main Menu](docs/images/ai-rag-fitness-trainer-mainmenu.png)
+![Main Menu](docs/images/ai-rag-fitness-trainer-mainmenu.PNG)
 
 **Тестовые скриншоты работы бота и всех модальностей** доступны в папке [docs/images](docs/images).
 
